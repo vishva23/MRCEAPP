@@ -1,0 +1,18 @@
+module.exports.colors = {
+  white: '#ffffff',
+  black: '#181818',
+  green: '#1BDE35',
+  gray: '#BFBFBF',
+  greish: '#f3f3f3',
+  darkGray: '#D9D9D9',
+  primaryRed: '#DA100B',
+  primaryPink: '#c3322f',
+  lightYellow: '#FFE560',
+  textGray: '#595959',
+  drawerColor: '#EFF0F2',
+  borderGrey: 'rgba(24, 24, 24, 0.2)',
+  iconGrey: 'rgba(24, 24, 24, 0.2)',
+  lightGrey: 'rgba(18, 18, 18, 0.05)',
+  lightGreen: '#92FFA0',
+  background: '#f9fafc',
+};
